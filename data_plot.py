@@ -54,5 +54,5 @@ def data_plot(file_path, class_number,save_name):
 
 
 if __name__ == '__main__':
-    data_plot('gen_data/cifar10_cl20_pat.json', 10, 'gen_plot/24-10-09/data_cifar10_cl20_pat')
-    data_plot('gen_data/cifar10_cl20_dir.json', 10, 'gen_plot/24-10-09/data_cifar10_cl20_dir')
+    data_plot('gen_data/24-10-09/cifar10_cl20_pat.json', 10, 'gen_plot/24-10-09/data_cifar10_cl20_pat')
+    data_plot('gen_data/24-10-09/cifar10_cl20_dir.json', 10, 'gen_plot/24-10-09/data_cifar10_cl20_dir')
