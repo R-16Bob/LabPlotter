@@ -1,0 +1,3 @@
+h5py==3.11.0
+matplotlib==3.7.3
+torch==2.2.0
